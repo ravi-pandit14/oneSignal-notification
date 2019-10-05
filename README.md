@@ -1,7 +1,7 @@
 # oneSignal-notification
 
 ##Quick replicate
-1. download "app-debug.apk" and invoke POST api call from Postman (make sure fist import json file into 'Postman' for api call)
+1. You can download "app-debug.apk" and invoke POST api call from Postman (make sure fist import json file into 'Postman' for api call)
 
 Some important link:
 
