@@ -5,7 +5,7 @@
 
 **Some important link:**
 
-**app-debug.apk:** https://github.com/ravi-pandit14/oneSignal-notification/blob/master/app-debug.apk
+**app-debug.apk:** https://github.com/ravi-pandit14/oneSignal-notification/raw/master/app-debug.apk
 
 **Postman:** https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related
 
