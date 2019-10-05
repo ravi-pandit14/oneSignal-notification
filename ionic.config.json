@@ -1,0 +1,7 @@
+{
+  "name": "oneSignalNotification",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

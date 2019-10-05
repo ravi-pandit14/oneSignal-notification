@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/vipin/Documents/GitHub/oneSignal-notification/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/vipin/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4c9b92f0cc17734aa0a92cbb83d0f434/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/vipin/Documents/Work/Personal Projects/oneSignalNotification/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/vipin/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4c9b92f0cc17734aa0a92cbb83d0f434/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}
